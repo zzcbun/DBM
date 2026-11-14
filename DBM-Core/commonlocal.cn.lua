@@ -1,6 +1,7 @@
 -- Diablohu(diablohudream@gmail.com)
 -- yleaf(yaroot@gmail.com)
-----Mini Dragon <流浪者酒馆-Brilla@金色平原(The Golden Plains-CN)> projecteurs@gmail.NOSPAM.com 20260411-- 泰坦重铸时光服-时光2-法师-旺仔芒果/椰奶冻-2026.11.13--
+----Mini Dragon <流浪者酒馆-Brilla@金色平原(The Golden Plains-CN)> projecteurs@gmail.NOSPAM.com 20260411
+-- 泰坦重铸时光服-时光2-法师-旺仔芒果/椰奶冻-2026.11.13--
 
 if GetLocale() ~= "zhCN" then return end
 if not DBM_COMMON_L then DBM_COMMON_L = {} end
